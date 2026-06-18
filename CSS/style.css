@@ -1,0 +1,22 @@
+body{
+
+font-family: Arial;
+text-align:center;
+background:#bbb5b5;
+
+}
+
+h2{
+    color:rgb(4, 104, 71);
+}
+
+
+h1{
+    color:rgb(247, 9, 48);
+    margin-top:50px;
+}
+
+p{
+    color:rgb(69, 69, 255);
+    font-size:20px;
+}
